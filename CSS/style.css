@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.login{
+  width: 350px;
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 50px;
+  background: #b5bfbe;
+  border-radius: 15px ;
+
+}
+.h1{
+text-align: center;
+color:#507d2a;
+padding: 20px;
+font-size: 10px;
+}
+label{
+color: black;
+font-size: 17px;
+}
+#uname{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 3px;
+padding-left: 8px;
+}
+#pw{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 3px;
+padding-left: 8px;
+
+}
+#log{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 17px;
+padding-left: 7px;
+color: blue;
+}
+#pw1{
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+
+}
+#pw2{
+   width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+#email{
+    width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
